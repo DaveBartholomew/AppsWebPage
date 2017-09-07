@@ -134,6 +134,7 @@ a {
   background: #EEEFF1;
   box-sizing: border-box;
   width: 90%;
+  height: 90%;
   margin: 20px auto;
   padding: 20px 0px;
   text-align: center;
@@ -148,7 +149,6 @@ a {
 
 .product img {
   width: 100%;
-  height: 100%;
 }
 
 .blue {
